@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmankhalil25&label=Profile%20views&color=0e75b6&style=flat" alt="usmankhalil25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmankhalil25" alt="usmankhalil25" /></a> </p>
-
 - 🔭 I’m currently working on **Universal Chat App using React and Django**
 
 - 🌱 I’m currently learning **React and Django integration**
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **usmankhalil8011@gmail.com**
 
-- ⚡ Fun fact **I hate css**
+- ⚡ Fun fact **I hate CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
