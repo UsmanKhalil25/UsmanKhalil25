@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **usmankhalil8011@gmail.com**
 
-- ⚡ Fun fact **I hate CSS**
+- ⚡ Fun fact **I hate vallina CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
