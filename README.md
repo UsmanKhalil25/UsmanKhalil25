@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman Khalil</h1>
-<h3 align="center">I'm a computer science student who codes in C++, React and Django.</h3>
+<h3 align="center">I'm a computer science student who codes in C++, Python and Javascript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmankhalil25&label=Profile%20views&color=0e75b6&style=flat" alt="usmankhalil25" /> </p>
-
-- 🔭 I’m currently working on **Universal Chat App using React and Django**
-
-- 🌱 I’m currently learning **React and Django integration**
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **usmankhalil8011@gmail.com**
 
