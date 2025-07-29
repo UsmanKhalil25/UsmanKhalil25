@@ -7,30 +7,24 @@ I also use **Vim** and **Arch** btw 😎
 
 ---
 
-## ⚙️ What I Work With
+## ⚙What I Work With
 
-### 🧠 Languages & Frameworks
+### Languages & Frameworks
 - **TypeScript / JavaScript** — _(Next.js, React, Vue.js, Nest.js)_
 - **Python** — _(FastAPI supremacy)_
 - **Go & C++** — _(when things get serious)_
 
 ---
 
-## 💬 Current Status
+## Current Status
 
-- 🧑‍💻 Junior Software Engineer @ Verdant Soft since March 2024  
-- 🎓 CS Student @ FAST NUCES Lahore  
-- 🧠 Currently figuring out why semicolons exist in JS
-
----
-
-## 🕹️ Fun Facts
-
-- Probably tweaking my Neovim config again or configuring a new windows manager in arch
+- Junior Software Engineer @ Verdant Soft since March 2024  
+- CS Student @ FAST NUCES Lahore
+- pobably tweaking my Neovim config again or configuring a new windows manager in arch
 
 ---
 
-## 📡 Connect With Me
+## Connect With Me
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Usman2519)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/muhammad-usman-071b12263)
