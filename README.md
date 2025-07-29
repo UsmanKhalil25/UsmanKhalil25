@@ -7,7 +7,7 @@ I also use **Vim** and **Arch** btw 😎
 
 ---
 
-## ⚙What I Work With
+## What I Work With
 
 ### Languages & Frameworks
 - **TypeScript / JavaScript** — _(Next.js, React, Vue.js, Nest.js)_
