@@ -2,7 +2,7 @@
 
 I build stuff with **TypeScript** and **Python** (yes, I hate JS — don't @ me).
 
-I also use **Vim** and **Arch** btw 😎  
+I also use **Vim** and **Arch** btw
 *(Because suffering is character-building... right?)*
 
 ---
