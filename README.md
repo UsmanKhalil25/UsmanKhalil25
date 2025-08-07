@@ -20,7 +20,7 @@ I also use **Vim** and **Arch** btw
 
 - Junior Software Engineer @ Verdant Soft since March 2024  
 - CS Student @ FAST NUCES Lahore
-- pobably tweaking my Neovim config again or configuring a new windows manager in arch
+- Probably tweaking my Neovim config again or configuring a new windows manager in arch
 
 ---
 
