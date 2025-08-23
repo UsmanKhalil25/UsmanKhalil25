@@ -1,6 +1,6 @@
 # Hey there, I'm Usman 👋
 
-I build stuff with **TypeScript** and **Python** (yes, I hate JS).
+I build stuff with **TypeScript** and **Python** (yes, I prefer TypeScript over vanilla JS — fight me)
 
 I also use **Vim** and **Arch** btw
 *(Because suffering is character-building... ig?)*
