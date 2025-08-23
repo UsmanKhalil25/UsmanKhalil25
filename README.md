@@ -1,9 +1,9 @@
 # Hey there, I'm Usman 👋
 
-I build stuff with **TypeScript** and **Python** (yes, I hate JS — don't @ me).
+I build stuff with **TypeScript** and **Python** (yes, I hate JS).
 
 I also use **Vim** and **Arch** btw
-*(Because suffering is character-building... right?)*
+*(Because suffering is character-building... ig?)*
 
 ---
 
@@ -11,7 +11,7 @@ I also use **Vim** and **Arch** btw
 
 ### Languages & Frameworks
 - **TypeScript / JavaScript** — _(Next.js, React, Vue.js, Nest.js)_
-- **Python** — _(FastAPI supremacy)_
+- **Python**
 - **Go & C++** — _(when things get serious)_
 
 ---
