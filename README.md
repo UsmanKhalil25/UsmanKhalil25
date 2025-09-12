@@ -3,7 +3,6 @@
 I build stuff with **TypeScript** and **Python** (yes, I prefer TypeScript over vanilla JS — fight me)
 
 I also use **Nvim** and **Arch** btw
-*(Because suffering is character-building... ig?)*
 
 ---
 
