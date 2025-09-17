@@ -1,25 +1,16 @@
-# Hey there, I'm Usman 👋
+# Usman Khalil
 
-I build stuff with **TypeScript** and **Python** (yes, I prefer TypeScript over vanilla JS — fight me)
-
-I also use **Nvim** and **Arch** btw
-
----
-
-## What I Work With
-
-### Languages & Frameworks
-- **TypeScript / JavaScript** — _(Next.js, React, Vue.js, Nest.js)_
-- **Python**
-- **Go & C++** — _(when things get serious)_
+* **Junior Software Engineer @ Verdant Soft** (since Mar 2024)
+* **CS Student @ FAST NUCES Lahore**
+* *Arch Linux + Neovim (btw)*
 
 ---
 
-## Current Status
+## Tech Stack
 
-- Junior Software Engineer @ Verdant Soft since March 2024  
-- CS Student @ FAST NUCES Lahore
-- Probably tweaking my Neovim config again or configuring a new windows manager in arch
+* **TypeScript / JavaScript** (Next.js, React, Vue.js, Nest.js)
+* **Python**
+* **Go, C++** (when shit gets serious)
 
 ---
 
