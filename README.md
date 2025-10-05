@@ -1,6 +1,6 @@
 # Usman Khalil
 
-* **Junior Software Engineer @ Verdant Soft** (since Mar 2024)
+* **SWE @ Verdant Soft** (since Mar 2024)
 * **CS Student @ FAST NUCES Lahore**
 * *Arch Linux + Neovim (btw)*
 
