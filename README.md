@@ -8,7 +8,7 @@
 
 ## Tech Stack
 
-* **TypeScript / JavaScript** (Next.js, React, Vue.js, Nest.js)
+* **TypeScript** 
 * **Python**
 * **Go, C++** (when shit gets serious)
 
