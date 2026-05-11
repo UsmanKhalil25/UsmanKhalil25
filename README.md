@@ -1,7 +1,7 @@
 # Usman Khalil
 
-* **SWE @ Verdant Soft** (since Mar 2024)
-* **CS Student @ FAST NUCES Lahore**
+* **SWE @ Verdant Soft**
+* **CS @ FAST NUCES Lahore**
 * *Arch Linux + Neovim (btw)*
 
 ---
@@ -10,7 +10,6 @@
 
 * **TypeScript** 
 * **Python**
-* **Go, C++** (when shit gets serious)
 
 ---
 
