@@ -4,14 +4,10 @@
 * **CS @ FAST NUCES Lahore**
 * *Arch Linux + Neovim (btw)*
 
----
-
 ## Tech Stack
 
 * **TypeScript** 
 * **Python**
-
----
 
 ## Connect With Me
 
