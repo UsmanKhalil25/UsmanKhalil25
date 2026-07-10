@@ -9,6 +9,9 @@
 * **TypeScript** 
 * **Python**
 
+## My Products / Applications
+- [Thread](https://thread-web-eight.vercel.app/): Private AI assistant. Runs entirely on your phone.
+
 ## Connect With Me
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Usman2519)
